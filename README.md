@@ -87,6 +87,8 @@ EdTech platform serving **10,000+ students** across **400+ partner universities*
 
 `Next.js` `TypeScript` `Node.js` `MongoDB` `OpenAI` `LangChain` `AWS`
 
+🔗 **[wwah.ai](https://wwah.ai)**
+
 </td>
 <td width="50%" valign="top">
 
@@ -170,20 +172,42 @@ Self-driven AI platform exploring advanced human–computer interaction.
 <!--                       GITHUB STATS                              -->
 <!-- ============================================================== -->
 
-## 📊 GitHub Stats
+## 📊 GitHub Stats — All-Time Activity
 
 <div align="center">
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=JunaidKhan92Pak&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0F172A&title_color=2563EB&icon_color=22C55E&text_color=E5E7EB&include_all_commits=true&count_private=true" alt="github stats" />
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=JunaidKhan92Pak&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0F172A&title_color=2563EB&icon_color=22C55E&text_color=E5E7EB&include_all_commits=true&count_private=true&custom_title=Junaid%27s%20All-Time%20GitHub%20Stats" alt="github stats" />
 <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JunaidKhan92Pak&layout=compact&theme=tokyonight&hide_border=true&bg_color=0F172A&title_color=2563EB&text_color=E5E7EB&langs_count=8" alt="top languages" />
 
 <br/><br/>
 
+<!-- Streak Stats — shows current streak and longest streak across ALL years -->
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=JunaidKhan92Pak&theme=tokyonight&hide_border=true&background=0F172A&stroke=2563EB&ring=22C55E&fire=22C55E&currStreakLabel=2563EB" alt="streak stats" />
 
 <br/><br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=JunaidKhan92Pak&theme=tokyo-night&bg_color=0F172A&color=2563EB&line=22C55E&point=E5E7EB&hide_border=true" alt="activity graph" />
+<!-- Year-by-year contribution graph -->
+**📅 Yearly Contributions Breakdown**
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=JunaidKhan92Pak&theme=tokyo-night&bg_color=0F172A&color=2563EB&line=22C55E&point=E5E7EB&hide_border=true&custom_title=Contribution%20Activity%20%E2%80%94%20Last%2031%20Days" alt="activity graph last 31 days" />
+
+<br/><br/>
+
+<!-- Full year-wise stats using github-profile-summary-cards -->
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=JunaidKhan92Pak&theme=tokyo_night" alt="profile details" />
+
+<br/><br/>
+
+<table>
+<tr>
+<td><img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=JunaidKhan92Pak&theme=tokyo_night" alt="stats card" /></td>
+<td><img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=JunaidKhan92Pak&theme=tokyo_night&utcOffset=5" alt="productive time" /></td>
+</tr>
+<tr>
+<td><img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=JunaidKhan92Pak&theme=tokyo_night" alt="repos per language" /></td>
+<td><img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=JunaidKhan92Pak&theme=tokyo_night" alt="most commit language" /></td>
+</tr>
+</table>
 
 </div>
 
