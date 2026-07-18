@@ -4,25 +4,25 @@
 
 <div align="center">
 
-<!-- Animated Header Banner -->
+<!-- Header Banner -->
 <a href="https://github.com/JunaidKhan92Pak">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=200&section=header&text=Junaid%20Sultan&fontSize=58&fontColor=ffffff&fontAlignY=38&desc=Full-Stack%20Software%20Engineer%20%7C%20AI%20Solutions%20Developer&descSize=18&descAlignY=62&descAlign=50&animation=fadeIn" alt="header banner" />
-</a>
-
-<!-- Typing Animation -->
-<a href="https://github.com/JunaidKhan92Pak">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=800&color=2563EB&center=true&vCenter=true&multiline=false&width=720&height=45&lines=Building+Production-Grade+AI+%26+Web+Applications;Next.js+%E2%80%A2+TypeScript+%E2%80%A2+Node.js+%E2%80%A2+MongoDB+%E2%80%A2+OpenAI;RAG+%E2%80%A2+LangChain+%E2%80%A2+Vector+Search+%E2%80%A2+AI+Assistants;3%2B+Years+Engineering+%E2%80%A2+Team+Lead+%E2%80%A2+Solo+Builder" alt="typing animation" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,100:312E81&height=190&section=header&text=Junaid%20Sultan&fontSize=52&fontColor=E2E8F0&fontAlignY=38&desc=Full-Stack%20Software%20Engineer%20%C2%B7%20AI%20Solutions%20Developer&descSize=16&descColor=94A3B8&descAlignY=60&descAlign=50&animation=fadeIn" alt="header banner" width="100%" />
 </a>
 
 <br/>
 
-<!-- Profile Stats Badges -->
-<p>
-  <img src="https://komarev.com/ghpvc/?username=JunaidKhan92Pak&label=Profile%20Views&color=2563EB&style=flat-square" alt="profile views" />
-  <img src="https://img.shields.io/badge/Focus-Full--Stack%20%2B%20AI-1E40AF?style=flat-square" alt="focus" />
-  <img src="https://img.shields.io/badge/Location-Lahore,%20Pakistan-0F172A?style=flat-square" alt="location" />
-  <img src="https://img.shields.io/badge/Open%20to-Work-22C55E?style=flat-square" alt="open to work" />
-</p>
+<!-- Typing Animation -->
+<a href="https://github.com/JunaidKhan92Pak">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=20&duration=3200&pause=900&color=818CF8&center=true&vCenter=true&multiline=false&width=720&height=40&lines=Building+Production-Grade+AI+%26+Web+Applications;Next.js+%E2%80%A2+TypeScript+%E2%80%A2+Node.js+%E2%80%A2+MongoDB+%E2%80%A2+OpenAI;RAG+%E2%80%A2+LangChain+%E2%80%A2+Vector+Search+%E2%80%A2+AI+Assistants" alt="typing animation" />
+</a>
+
+<br/><br/>
+
+<!-- Status Badges — unified accent palette -->
+<img src="https://komarev.com/ghpvc/?username=JunaidKhan92Pak&label=Profile%20Views&color=6366F1&style=for-the-badge" alt="profile views" />
+<img src="https://img.shields.io/badge/Focus-Full--Stack%20%2B%20AI-6366F1?style=for-the-badge" alt="focus" />
+<img src="https://img.shields.io/badge/Location-Lahore%2C%20Pakistan-6366F1?style=for-the-badge" alt="location" />
+<img src="https://img.shields.io/badge/Open%20to-Work-F59E0B?style=for-the-badge" alt="open to work" />
 
 </div>
 
@@ -32,33 +32,31 @@
 <!--                        ABOUT SECTION                            -->
 <!-- ============================================================== -->
 
-## <picture><source media="(prefers-color-scheme: dark)" srcset="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" /><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30" /></picture> About Me
+## About Me
 
 ```yaml
 name:        Junaid Sultan
-role:        Full-Stack Software Engineer | AI Solutions Developer
+role:        Full-Stack Software Engineer · AI Solutions Developer
 location:    Lahore, Pakistan
 experience:  3+ years
 education:   BS Software Engineering — University of Okara
 
 currently_working_at:
-  - WWAH.AI (Worldwide Admissions Hub) — Team Lead
+  - WWAH.AI (Worldwide Admissions Hub) — Technical Team Lead
 
-independently_building:
+founder_of:
   - Genrexa — AI Automation & Multimodal Web Platform → https://genrexa.com
 
 specializing_in:
   - AI Assistants & Chatbots (RAG, LangChain, OpenAI)
   - Full-Stack Web Applications (Next.js + Node.js)
-  - Real-time Systems (Socket.IO)
+  - Real-time Systems (WebRTC, Socket.IO)
   - Voice & Gesture-Based Interfaces
-  - AI Integration into Business Workflows
 
 passionate_about:
   - Production-grade AI engineering
   - Clean architecture & scalable systems
-  - Human–computer interaction
-  - Mentoring & building strong engineering teams
+  - Human-computer interaction
 ```
 
 <br/>
@@ -67,41 +65,39 @@ passionate_about:
 <!--                       EXPERIENCE                                -->
 <!-- ============================================================== -->
 
-## 🚀 What I'm Working On
+## What I'm Working On
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-### 🏢 WWAH.AI
+### WWAH.AI
 **Worldwide Admissions Hub**
-*Team Lead — Full-Stack & AI Engineering*
+*Technical Team Lead — Full-Stack & AI Engineering*
 
-EdTech platform serving **10,000+ students** across **400+ partner universities**. Progressed from Backend → Full-Stack → Team Lead.
+EdTech platform for international university admissions. Progressed from Backend → Full-Stack → Team Lead.
 
-- 🧠 Built RAG-based AI Assistant (OpenAI + LangChain + MongoDB Vector Search)
-- 🎯 Designed the **Success Chance Engine** for admission probability scoring
-- ⚡ Real-time notifications with Socket.IO
-- 💳 Payment gateway integration
-- 👥 Lead a team of 6 engineers in 2-week Agile sprints
+- Built a RAG-based AI Assistant (OpenAI + LangChain + MongoDB Vector Search)
+- Designed the **Success Chance Engine** for admission probability scoring
+- Automated an Excel-to-MongoDB data pipeline, cutting hours of manual entry to seconds
+- Integrated a payment gateway (PayPro) end-to-end
+- Lead a four-developer team through two-week Agile sprints
 
 `Next.js` `TypeScript` `Node.js` `MongoDB` `OpenAI` `LangChain` `AWS`
-
-🔗 **[wwah.ai](https://wwah.ai)**
 
 </td>
 <td width="50%" valign="top">
 
-### ⚡ Genrexa
-**AI Automation Agency Platform**
-*Independent Project — Solo Built*
+### Genrexa
+**AI Automation Platform**
+*Founder — Solo-Built*
 
-Self-driven AI platform exploring advanced human–computer interaction.
+Self-driven AI platform exploring real-time communication and human-computer interaction.
 
-- 🤖 Conversational AI Assistant (OpenAI + custom UI)
-- ✋ Gesture-controlled navigation & air keyboard (MediaPipe + TensorFlow.js)
-- 🎤 Voice control via Web Speech API
-- 🌐 Full-stack architecture built solo from scratch
+- Conversational AI assistant with voice interaction (OpenAI + custom UI)
+- Real-time video calling via WebRTC + Socket.IO signaling
+- Gesture-controlled navigation & air keyboard (MediaPipe + TensorFlow.js)
+- Full-stack architecture designed and deployed solo
 
 `Next.js` `TypeScript` `MediaPipe` `TensorFlow.js` `MongoDB` `Vercel`
 
@@ -117,52 +113,59 @@ Self-driven AI platform exploring advanced human–computer interaction.
 <!--                          TECH STACK                             -->
 <!-- ============================================================== -->
 
-## 🛠️ Tech Stack & Tools
+## Tech Stack
 
 <div align="center">
 
-### 💻 Languages
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+**Languages**
+<br/>
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
 
-### 🎨 Frontend
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![shadcn/ui](https://img.shields.io/badge/shadcn/ui-000000?style=for-the-badge&logo=shadcnui&logoColor=white)
+<br/>
 
-### ⚙️ Backend
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
-![REST API](https://img.shields.io/badge/REST_APIs-02569B?style=for-the-badge&logo=fastapi&logoColor=white)
-![Socket.IO](https://img.shields.io/badge/Socket.io-010101?style=for-the-badge&logo=socket.io&logoColor=white)
+**Frontend**
+<br/>
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
+![shadcn/ui](https://img.shields.io/badge/shadcn%2Fui-000000?style=flat-square&logo=shadcnui&logoColor=white)
 
-### 🗄️ Databases
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![Mongoose](https://img.shields.io/badge/Mongoose-880000?style=for-the-badge&logo=mongoose&logoColor=white)
-![Vector_Search](https://img.shields.io/badge/Vector_Search-4B0082?style=for-the-badge&logo=databricks&logoColor=white)
+<br/>
 
-### 🤖 AI & Machine Learning
-![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
-![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
-![RAG](https://img.shields.io/badge/RAG-FF6F00?style=for-the-badge&logo=anthropic&logoColor=white)
-![MediaPipe](https://img.shields.io/badge/MediaPipe-0097A7?style=for-the-badge&logo=google&logoColor=white)
-![TensorFlow.js](https://img.shields.io/badge/TensorFlow.js-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+**Backend**
+<br/>
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white)
+![REST API](https://img.shields.io/badge/REST_APIs-02569B?style=flat-square&logo=fastapi&logoColor=white)
+![Socket.IO](https://img.shields.io/badge/Socket.io-010101?style=flat-square&logo=socket.io&logoColor=white)
 
-### ☁️ Cloud & DevOps
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=FF9900)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+<br/>
 
-### 🧰 Tools & Workflow
-![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)
-![ClickUp](https://img.shields.io/badge/ClickUp-7B68EE?style=for-the-badge&logo=clickup&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+**Databases**
+<br/>
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![Mongoose](https://img.shields.io/badge/Mongoose-880000?style=flat-square&logo=mongoose&logoColor=white)
+
+<br/>
+
+**AI & Machine Learning**
+<br/>
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
+![MediaPipe](https://img.shields.io/badge/MediaPipe-0097A7?style=flat-square&logo=google&logoColor=white)
+![TensorFlow.js](https://img.shields.io/badge/TensorFlow.js-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
+
+<br/>
+
+**Cloud & Tools**
+<br/>
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=FF9900)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![Jira](https://img.shields.io/badge/Jira-0052CC?style=flat-square&logo=jira&logoColor=white)
 
 </div>
 
@@ -172,42 +175,16 @@ Self-driven AI platform exploring advanced human–computer interaction.
 <!--                       GITHUB STATS                              -->
 <!-- ============================================================== -->
 
-## 📊 GitHub Stats — All-Time Activity
+## GitHub Activity
 
 <div align="center">
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=JunaidKhan92Pak&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0F172A&title_color=2563EB&icon_color=22C55E&text_color=E5E7EB&include_all_commits=true&count_private=true&custom_title=Junaid%27s%20All-Time%20GitHub%20Stats" alt="github stats" />
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JunaidKhan92Pak&layout=compact&theme=tokyonight&hide_border=true&bg_color=0F172A&title_color=2563EB&text_color=E5E7EB&langs_count=8" alt="top languages" />
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=JunaidKhan92Pak&show_icons=true&hide_border=true&bg_color=0F172A&title_color=818CF8&icon_color=F59E0B&text_color=E2E8F0&include_all_commits=true&count_private=true" alt="github stats" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JunaidKhan92Pak&layout=compact&hide_border=true&bg_color=0F172A&title_color=818CF8&text_color=E2E8F0&langs_count=6" alt="top languages" />
 
 <br/><br/>
 
-<!-- Streak Stats — shows current streak and longest streak across ALL years -->
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=JunaidKhan92Pak&theme=tokyonight&hide_border=true&background=0F172A&stroke=2563EB&ring=22C55E&fire=22C55E&currStreakLabel=2563EB" alt="streak stats" />
-
-<br/><br/>
-
-<!-- Year-by-year contribution graph -->
-**📅 Yearly Contributions Breakdown**
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=JunaidKhan92Pak&theme=tokyo-night&bg_color=0F172A&color=2563EB&line=22C55E&point=E5E7EB&hide_border=true&custom_title=Contribution%20Activity%20%E2%80%94%20Last%2031%20Days" alt="activity graph last 31 days" />
-
-<br/><br/>
-
-<!-- Full year-wise stats using github-profile-summary-cards -->
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=JunaidKhan92Pak&theme=tokyo_night" alt="profile details" />
-
-<br/><br/>
-
-<table>
-<tr>
-<td><img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=JunaidKhan92Pak&theme=tokyo_night" alt="stats card" /></td>
-<td><img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=JunaidKhan92Pak&theme=tokyo_night&utcOffset=5" alt="productive time" /></td>
-</tr>
-<tr>
-<td><img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=JunaidKhan92Pak&theme=tokyo_night" alt="repos per language" /></td>
-<td><img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=JunaidKhan92Pak&theme=tokyo_night" alt="most commit language" /></td>
-</tr>
-</table>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=JunaidKhan92Pak&hide_border=true&background=0F172A&stroke=818CF8&ring=F59E0B&fire=F59E0B&currStreakLabel=818CF8&sideLabels=E2E8F0&currStreakNum=E2E8F0&sideNums=E2E8F0&dates=94A3B8" alt="streak stats" />
 
 </div>
 
@@ -217,11 +194,11 @@ Self-driven AI platform exploring advanced human–computer interaction.
 <!--                          TROPHIES                               -->
 <!-- ============================================================== -->
 
-## 🏆 GitHub Trophies
+## Trophies
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=JunaidKhan92Pak&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7&margin-w=15" alt="trophies" />
+<img src="https://github-profile-trophy.vercel.app/?username=JunaidKhan92Pak&theme=algolia&no-frame=true&no-bg=true&row=1&column=6&margin-w=12" alt="trophies" />
 
 </div>
 
@@ -231,32 +208,29 @@ Self-driven AI platform exploring advanced human–computer interaction.
 <!--                        EXPERTISE HIGHLIGHTS                     -->
 <!-- ============================================================== -->
 
-## 💡 What I Bring to the Table
+## What I Bring to the Table
 
 <table>
 <tr>
 <td width="33%" align="center" valign="top">
 
-### 🧠
 **AI Engineering**
 
-Production-grade RAG pipelines, custom LangChain implementations, vector search, and intelligent matching engines.
+Production-grade RAG pipelines, LangChain implementations, vector search, and intelligent matching engines.
 
 </td>
 <td width="33%" align="center" valign="top">
 
-### ⚡
 **Full-Stack Development**
 
-End-to-end ownership — from UI to APIs to database design to cloud deployment with CI/CD.
+End-to-end ownership — UI, APIs, database design, and cloud deployment with CI/CD.
 
 </td>
 <td width="33%" align="center" valign="top">
 
-### 👥
 **Engineering Leadership**
 
-Led a 6-engineer team through Agile sprints, code reviews, mentoring, and successful product delivery.
+Led a four-developer team through Agile sprints, code reviews, and delivery.
 
 </td>
 </tr>
@@ -268,46 +242,30 @@ Led a 6-engineer team through Agile sprints, code reviews, mentoring, and succes
 <!--                          CONNECT                                -->
 <!-- ============================================================== -->
 
-## 🤝 Let's Connect
+## Let's Connect
 
 <div align="center">
 
 <a href="https://www.linkedin.com/in/junaid-sultan-572101260/">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin" />
+  <img src="https://img.shields.io/badge/LinkedIn-6366F1?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin" />
 </a>
 <a href="mailto:junaidsultan92pk@gmail.com">
-  <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="email" />
+  <img src="https://img.shields.io/badge/Email-6366F1?style=for-the-badge&logo=gmail&logoColor=white" alt="email" />
 </a>
 <a href="https://genrexa.com">
-  <img src="https://img.shields.io/badge/Genrexa-0F172A?style=for-the-badge&logo=vercel&logoColor=white" alt="genrexa" />
+  <img src="https://img.shields.io/badge/Genrexa-6366F1?style=for-the-badge&logo=vercel&logoColor=white" alt="genrexa" />
 </a>
 
 <br/><br/>
 
-📍 **Lahore, Pakistan** &nbsp;&nbsp;|&nbsp;&nbsp; 🌍 **Open to Remote & On-Site Opportunities** &nbsp;&nbsp;|&nbsp;&nbsp; 💼 **Available for Freelance**
+📍 Lahore, Pakistan &nbsp;·&nbsp; Open to Remote & On-Site Opportunities &nbsp;·&nbsp; Available for Freelance
 
 </div>
 
 <br/>
 
-<!-- ============================================================== -->
-<!--                            QUOTE                                -->
-<!-- ============================================================== -->
-
 <div align="center">
 
-> _"I don't just write code — I engineer solutions that scale, ship, and solve real problems."_
-
-</div>
-
-<br/>
-
-<!-- ============================================================== -->
-<!--                            FOOTER                               -->
-<!-- ============================================================== -->
-
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=120&section=footer&animation=twinkling" alt="footer" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,100:312E81&height=110&section=footer&animation=twinkling" alt="footer" width="100%" />
 
 </div>
