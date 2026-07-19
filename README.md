@@ -42,8 +42,8 @@ location:     Lahore, Pakistan
 experience:   3+ years
 education:    BS Software Engineering — University of Okara
 
-currently:    Technical Team Lead @ WWAH.AI
-solo_project: Genrexa — https://genrexa.com
+Worldwide Admission Hub:   Full Stack Developer & Technical Team Lead @ WWAH.AI
+Genrexa  : Full Stack Engineer  
 
 focus:        RAG pipelines · LangChain · Full-stack web apps
               Real-time systems (WebRTC, Socket.IO) · Voice & gesture UIs
