@@ -43,7 +43,7 @@ experience:   3+ years
 education:    BS Software Engineering — University of Okara
 
 currently:    Technical Team Lead @ WWAH.AI
-founder_of:   Genrexa — https://genrexa.com
+solo_project: Genrexa — https://genrexa.com
 
 focus:        RAG pipelines · LangChain · Full-stack web apps
               Real-time systems (WebRTC, Socket.IO) · Voice & gesture UIs
@@ -107,7 +107,7 @@ EdTech platform for international university admissions. Progressed from Backend
 
 ### Genrexa
 **AI Automation Platform**
-*Founder — Solo-Built*
+*Full-Stack Engineer — Solo-Built*
 
 Self-driven AI platform exploring real-time communication and human-computer interaction.
 
@@ -145,12 +145,11 @@ Self-driven AI platform exploring real-time communication and human-computer int
 
 <br/><br/>
 
-**Contribution Snake**
+**Contribution Activity — 2025**
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/JunaidKhan92Pak/JunaidKhan92Pak/output/github-contribution-grid-snake-dark.svg">
-  <img alt="snake animation" src="https://raw.githubusercontent.com/JunaidKhan92Pak/JunaidKhan92Pak/output/github-contribution-grid-snake.svg">
-</picture>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=JunaidKhan92Pak&year=2025&bg_color=0F172A&color=818CF8&line=818CF8&point=F59E0B&hide_border=true&area=true" alt="activity graph 2025" width="100%" />
+
+<sub>To view a different year, edit the <code>&year=2025</code> part of the image URL above to any year you like (e.g. <code>&year=2026</code>).</sub>
 
 <br/><br/>
 
