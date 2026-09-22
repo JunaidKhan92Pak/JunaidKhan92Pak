@@ -1,11 +1,11 @@
 <!-- ============================================================
-     JUNAID SULTAN — GITHUB PROFILE README
+     JUNAID SULTAN â€” GITHUB PROFILE README
      Clean, modern, GitHub-compatible, and recruiter-focused
 ============================================================= -->
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,45:1E1B4B,100:4F46E5&height=230&section=header&text=Junaid%20Sultan&fontSize=58&fontColor=F8FAFC&fontAlignY=36&desc=Full-Stack%20Software%20Engineer%20%7C%20AI%20Solutions%20Developer&descSize=17&descColor=C7D2FE&descAlignY=58&animation=fadeIn" width="100%" alt="Junaid Sultan — Full-Stack Software Engineer and AI Solutions Developer" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,45:1E1B4B,100:4F46E5&height=230&section=header&text=Junaid%20Sultan&fontSize=58&fontColor=F8FAFC&fontAlignY=36&desc=Full-Stack%20Software%20Engineer%20%7C%20AI%20Solutions%20Developer&descSize=17&descColor=C7D2FE&descAlignY=58&animation=fadeIn" width="100%" alt="Junaid Sultan â€” Full-Stack Software Engineer and AI Solutions Developer" />
 
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=19&duration=2800&pause=850&color=818CF8&center=true&vCenter=true&repeat=true&width=760&height=45&lines=Building+AI-powered+products+that+solve+real+problems;Engineering+scalable+full-stack+web+applications;RAG+%E2%80%A2+Real-time+systems+%E2%80%A2+Cloud+deployment" alt="Animated introduction" />
 
@@ -23,12 +23,13 @@
 
 </div>
 
-👋 About Me
+## ðŸ‘‹ About Me
 
+```yaml
 name: Junaid Sultan
 role: Full-Stack Software Engineer & AI Solutions Developer
 location: Lahore, Pakistan
-education: BS Software Engineering — University of Okara
+education: BS Software Engineering â€” University of Okara
 
 currently:
   - Technical Team Lead at WWAH.AI
@@ -39,52 +40,34 @@ specialized_in:
   - Scalable web platforms and REST APIs
   - Real-time systems using WebRTC and Socket.IO
   - Cloud deployment and production architecture
+```
 
-I turn complex product ideas into reliable, production-ready software—from architecture and APIs to polished user experiences and cloud deployment.
+> I turn complex product ideas into reliable, production-ready softwareâ€”from architecture and APIs to polished user experiences and cloud deployment.
 
-⚡ Engineering Snapshot
+## âš¡ Engineering Snapshot
 
 <div align="center">
 
-🤖 AI Engineering
-
-🌐 Full-Stack
-
-⚙️ Backend & Data
-
-☁️ Cloud & Delivery
-
-RAG · LangChain · OpenAI
-
-Next.js · React · TypeScript
-
-Node.js · Express · MongoDB
-
-AWS · Vercel · Nginx
-
-Vector Search · Assistants
-
-Tailwind CSS · Responsive UI
-
-REST APIs · Auth · Payments
-
-GitHub · PM2 · CI/CD
+| ðŸ¤– AI Engineering | ðŸŒ Full-Stack | âš™ï¸ Backend & Data | â˜ï¸ Cloud & Delivery |
+|:---:|:---:|:---:|:---:|
+| RAG Â· LangChain Â· OpenAI | Next.js Â· React Â· TypeScript | Node.js Â· Express Â· MongoDB | AWS Â· Vercel Â· Nginx |
+| Vector Search Â· Assistants | Tailwind CSS Â· Responsive UI | REST APIs Â· Auth Â· Payments | GitHub Â· PM2 Â· CI/CD |
 
 </div>
 
-🧰 Technology Stack
+## ðŸ§° Technology Stack
 
 <div align="center">
 
-Core Development
+### Core Development
 
 <img src="https://skillicons.dev/icons?i=ts,js,python,nextjs,react,tailwind,nodejs,express,mongodb&theme=dark&perline=9" alt="Core technology stack" />
 
-Tools & Infrastructure
+### Tools & Infrastructure
 
 <img src="https://skillicons.dev/icons?i=aws,vercel,git,github,figma,postman,jira,vscode&theme=dark&perline=8" alt="Development tools and infrastructure" />
 
-AI & Real-Time Systems
+### AI & Real-Time Systems
 
 <p>
   <img src="https://img.shields.io/badge/OpenAI-111827?style=for-the-badge&logo=openai&logoColor=A5B4FC" alt="OpenAI" />
@@ -97,62 +80,55 @@ AI & Real-Time Systems
 
 </div>
 
-🚀 Featured Work
+## ðŸš€ Featured Work
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-🎓 WWAH.AI
+### ðŸŽ“ WWAH.AI
 
-Worldwide Admissions Hub
-Technical Team Lead · Full-Stack & AI
+**Worldwide Admissions Hub**  
+`Technical Team Lead Â· Full-Stack & AI`
 
 An EdTech platform simplifying international university admissions through intelligent automation.
 
-Key impact
+**Key impact**
 
-Built a RAG assistant using OpenAI, LangChain, and MongoDB Vector Search
+- Built a RAG assistant using OpenAI, LangChain, and MongoDB Vector Search
+- Designed a Success Chance Engine for admission probability scoring
+- Reduced hours of manual data entry to seconds with an Excel-to-MongoDB pipeline
+- Integrated PayPro payments across the complete transaction flow
+- Lead four developers through focused two-week Agile sprints
 
-Designed a Success Chance Engine for admission probability scoring
-
-Reduced hours of manual data entry to seconds with an Excel-to-MongoDB pipeline
-
-Integrated PayPro payments across the complete transaction flow
-
-Lead four developers through focused two-week Agile sprints
-
-Next.js TypeScript Node.js MongoDB AWS RAG
+`Next.js` `TypeScript` `Node.js` `MongoDB` `AWS` `RAG`
 
 </td>
 <td width="50%" valign="top">
 
-✦ Genrexa
+### âœ¦ Genrexa
 
-AI Automation & Interaction Platform
-Founder · Solo Full-Stack Engineer
+**AI Automation & Interaction Platform**  
+`Founder Â· Solo Full-Stack Engineer`
 
 A self-driven platform exploring AI assistance, real-time communication, and natural user interfaces.
 
-Key features
+**Key features**
 
-Conversational AI assistant with a custom voice-enabled interface
+- Conversational AI assistant with a custom voice-enabled interface
+- Real-time video calling with WebRTC and Socket.IO signaling
+- Gesture navigation and an air keyboard using MediaPipe and TensorFlow.js
+- End-to-end product architecture, development, and deployment
 
-Real-time video calling with WebRTC and Socket.IO signaling
+`Next.js` `TypeScript` `MongoDB` `WebRTC` `OpenAI` `Vercel`
 
-Gesture navigation and an air keyboard using MediaPipe and TensorFlow.js
-
-End-to-end product architecture, development, and deployment
-
-Next.js TypeScript MongoDB WebRTC OpenAI Vercel
-
-<a href="https://genrexa.com"><strong>Explore Genrexa →</strong></a>
+<a href="https://genrexa.com"><strong>Explore Genrexa â†’</strong></a>
 
 </td>
 </tr>
 </table>
 
-📊 GitHub Activity
+## ðŸ“Š GitHub Activity
 
 <div align="center">
 
@@ -179,13 +155,13 @@ Next.js TypeScript MongoDB WebRTC OpenAI Vercel
 
 </div>
 
-🤝 Let’s Build Something Valuable
+## ðŸ¤ Letâ€™s Build Something Valuable
 
 <div align="center">
 
-I’m open to software engineering opportunities, AI product development, and freelance collaborations.
+Iâ€™m open to **software engineering opportunities**, **AI product development**, and **freelance collaborations**.
 
-If you are building a scalable web platform or an AI-powered product, let’s talk.
+If you are building a scalable web platform or an AI-powered product, letâ€™s talk.
 
 <br/>
 
@@ -194,7 +170,7 @@ If you are building a scalable web platform or an AI-powered product, let’s ta
 
 <br/><br/>
 
-<sub>📍 Lahore, Pakistan  •  Remote & On-Site  •  Available Worldwide</sub>
+<sub>ðŸ“ Lahore, Pakistan &nbsp;â€¢&nbsp; Remote & On-Site &nbsp;â€¢&nbsp; Available Worldwide</sub>
 
 </div>
 
